@@ -1,0 +1,28 @@
+@charset "UTF-8";
+li{
+  margin: 30px;
+
+
+}
+#select{
+  background-color: red;
+  font-style: oblique;
+}
+a{
+  color: white;
+  font-size: 20px;
+  border-style: ridge;
+  padding: 7px;
+  text-decoration: none;
+}
+body{
+  background-color: black;
+}
+*{
+  color: white;
+}
+h2{
+  color: orange;
+  font-size: 40px;
+  text-decoration: underline;
+}
